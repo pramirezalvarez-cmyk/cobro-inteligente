@@ -7,9 +7,11 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'PayPredict - Know Who Will Pay Late',
-  description: 'AI-powered payment prediction for accounts receivable. Identify at-risk invoices before they become overdue.',
-  generator: 'v0.app',
+  title: 'Cobro Inteligente',
+  description: 'Optimiza tu proceso de cobro',
+  verification: {
+    google: 'QjrUr0DRElQRrpzMW-qKRL334GUM45NHvT44wmQ9FLI',
+  },
   icons: {
     icon: [
       {
@@ -26,14 +28,6 @@ export const metadata: Metadata = {
       },
     ],
     apple: '/apple-icon.png',
-  },
-}
-
-export const metadata: Metadata = {
-  title: 'Cobro Inteligente',
-  description: 'Optimiza tu proceso de cobro',
-  verification: {
-    google: 'QjrUr0DRElQRrpzMW-qKRL334GUM45NHvT44wmQ9FLI',
   },
 }
 
