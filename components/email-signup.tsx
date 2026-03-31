@@ -108,7 +108,9 @@ export function EmailSignup() {
           )}
 
           <p className="mt-4 text-sm text-primary-foreground/60">
-            No se requiere tarjeta de crédito.
+          🚀 Recibiendo solicitudes por tiempo limitado
+          Déjanos tus datos y evaluamos tu caso sin costo.
+          No se requiere tarjeta de crédito.
           </p>
         </div>
       </div>
