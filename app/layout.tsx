@@ -29,6 +29,14 @@ export const metadata: Metadata = {
   },
 }
 
+export const metadata: Metadata = {
+  title: 'Cobro Inteligente',
+  description: 'Optimiza tu proceso de cobro',
+  verification: {
+    google: 'QjrUr0DRElQRrpzMW-qKRL334GUM45NHvT44wmQ9FLI',
+  },
+}
+
 export default function RootLayout({
   children,
 }: Readonly<{
