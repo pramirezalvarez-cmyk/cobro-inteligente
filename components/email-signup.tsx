@@ -107,8 +107,10 @@ export function EmailSignup() {
             </form>
           )}
 
+          <p className="mt-4 text-sm text-primary-foreground/60 font-medium">
+          🚀 Recibiendo solicitudes por tiempo limitado 
+          </p>
           <p className="mt-4 text-sm text-primary-foreground/60">
-          🚀 Recibiendo solicitudes por tiempo limitado
           Déjanos tus datos y evaluamos tu caso sin costo.
           No se requiere tarjeta de crédito.
           </p>
