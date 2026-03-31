@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: 'Cobro Inteligente',
   description: 'Optimiza tu proceso de cobro',
   verification: {
-    google: 'QjrUr0DRElQRrpzMW-qKRL334GUM45NHvT44wmQ9FLI',
+    google: 'laYYg0ol7gcyICnvwWlmmBH2YiL69mJbz_-HrE4Gxq8',
   },
   icons: {
     icon: [
